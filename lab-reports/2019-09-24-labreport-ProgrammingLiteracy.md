@@ -4,6 +4,8 @@
 
 ## Process Description:
 
+@willslostplums
+
 This lab took us through the process of creating and coding our very own twitter bot. Using the free public service called Tracery, we each developed our own unique set of commands to make our individual, generated poems. I  decided to take the William Carlos Williams poem "This is Just to Say" and fill in certain words in the poem with randomly selected words from a long list. The origin is encoded at the top or the bottom of the code window and it tells the Tracery machine which parts should be replaced or filled in using the lists provided. These lists correspond to the origin with certain arbitrary elements with tags like "noun" or "object". As long as I made sure that these elements corresponded correctly, and that the lists followed well-formedness, the bot can correctly randomly generate a new poem. 
 
 ## Observations

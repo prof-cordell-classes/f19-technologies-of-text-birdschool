@@ -1,0 +1,5 @@
+##Reading Prep Chapter 6 ☞ Archives
+
+1. Mak asserts that "intellectual boundaries [that] have separated text from image and form from content." This relates to her idea of the "cognitive space of the page". How does this cognitive space affect understanding? How is cognitive space created in the mind? Spacial reasoning of the page etc.
+2. How does the standardization of spelling change the cognitive function of language? As we think in words, we often recall its shape, its spelling, its pattern of spelling in relation to other words. Has this affected the way we conceive of sound? How does this affect dyslexic people?
+3. Would it be possible to conquer and colonize without a written language? What role did written language play in the colonization of North America? Is written language a form of empowerment?

@@ -1,0 +1,19 @@
+#Lab Report: Twine
+
+#####Emma Farman
+
+##Process Description
+
+This lab focused around our discussions of electronic literature. After reading Jon Bois influential piece of electronic literature "What Football Will Look Like in the Future: 17776" we set out to discover different ways that we can create our own electronic literature. Bois uses video, ms paint, and other simplistic coding tools in order to create his story. For this lab we learned how to use a service called Twine in order to create unconventional and interactive stories. Twine works similarly to those create your own ending stories in which the reader can click and decide which  part of the story to jump to. Twine allows writers to create a story map from which they can make a web of plot points that can interweave and interact with each other. 
+
+I utilized the desktop version of the service. We first took a look at Professor Cordell's Twine narrative in order to catch our bearings with how the service works. I have previously worked with Twine in Reading and Writing in the Digital Age, so this was just a brush up on how the service worked. We used Allison Parrish's Twin tutorial as a guide, and then were set free for the rest of the class time to play around with the different functions that Twine has to offer. I didn't complete a narrative, but I did end up figuring out other more complicated features in Twine that I had not used before, such as the textbox and variable features.
+
+##Observations
+
+Twine is a fairly straightforward service that at its most basic is a simple string of textboxes that the reader clicks through in order to read a story. At its most complex, however, Twine can offer a myriad of options to fill your narrative with interactive elements, turning the electronic literature into more like a video game. I decided to try to tinker with these more complex elements, and they turned out to be more difficult to work with than I thought. The textbox and variable features are reliant upon exactly well formed code. 
+
+After some messing around and some frustration I could not figure out what was messing up the well formedness of my code within Twine. After consulting Parrish's tutorial, I realized that my Twine was not in Sugarcube like it was supposed to be in order to run the macros properly. I realized this at the end of the class time, and unfortunately did not save my work because I was working with the desktop version of Twine, but I plan on continuing tinkering with this tool because of its relative simplicity and user friendly apparatus. 
+
+##Analysis
+
+I am very interested in the role that form has in the way that we consume and interpret media. Certain forms of literature push the boundary of expected form (for example my favorite novel *Lincoln in the Bardo*), but I feel that authors, readers, and publishers should be pushing their expectations of what form can do. Jon Bois work is another example of how form can affect meaning and create new meanings when used in creative and unique ways. His multimedia form of writing is exemplary of what Craig Mod asserts in his article "Future Reading" when he says that electronic literature should be more than just a glow in the dark newspaper. By experimenting with different ways of story telling, like how the Bandersnatch episode of Black Mirror was created with Twine, we can see how new modes of story telling are popular and innovative. I think that the more that these innovative modes of storytelling are shared with the public and are popular people will want and create more stories that change the face of this glow in the dark newspaper into an interactive, blended media landscape. 
